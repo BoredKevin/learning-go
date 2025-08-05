@@ -11,7 +11,7 @@ This project follows a standard Go project layout:
 
 ## How to Build and Run
 
-To run an application, use `go run` from the project root. For example, to run the `calcpkg` application:
+To run an application, use `go run` from the project root. For example, to run the `calculator` application:
 
 ```sh
 go run ./cmd/calculator
