@@ -19,5 +19,5 @@ go run ./cmd/calculator
 
 To build the binary into the `build/` directory (using the VS Code task or manually):
 ```sh
-go build -o build/calcpkg ./cmd/calculator
+go build -o build/calculator ./cmd/calculator
 ```
